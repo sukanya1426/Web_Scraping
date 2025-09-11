@@ -1,0 +1,324 @@
+
+================================================================================
+Query: phone with good camera
+Method: BM25 Search
+================================================================================
+
+Result #1:
+Score: 5.533
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 4.927
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 4.927
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 4.447
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 2.576
+Product: Walton Smart Phone NEXG N71 Plus
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Semantic Search
+================================================================================
+
+Result #1:
+Score: 0.591
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 0.558
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.539
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.502
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+Result #5:
+Score: 0.495
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Hybrid Search
+================================================================================
+
+Result #1:
+Score: 1.382
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 1.346
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 1.314
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #4:
+Score: 1.262
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 1.006
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Reranked Results
+================================================================================
+
+Result #1:
+Score: 1.500
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 1.489
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 1.442
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 1.269
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 0.000
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: BM25 Search
+================================================================================
+
+Result #1:
+Score: 5.576
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 5.022
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 5.022
+Product: Imam i12 max (RAM-2GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 4.524
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 2.669
+Product: Walton Smart Phone NEXG N71 Plus
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Semantic Search
+================================================================================
+
+Result #1:
+Score: 0.591
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 0.558
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.539
+Product: Imam i12 max (RAM-2GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.502
+Product: Imam i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam Smart Phone
+--------------------------------------------------
+Result #5:
+Score: 0.495
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Hybrid Search
+================================================================================
+
+Result #1:
+Score: 1.387
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 1.369
+Product: Imam i12 max (RAM-2GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 1.351
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #4:
+Score: 1.303
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 1.040
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Reranked Results
+================================================================================
+
+Result #1:
+Score: 1.500
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 1.489
+Product: Imam i12 max (RAM-2GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 1.442
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 1.269
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 0.000
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: BM25 Search
+================================================================================
+
+Result #1:
+Score: 5.533
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 4.927
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 4.927
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 4.447
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 2.576
+Product: Walton Smart Phone NEXG N71 Plus
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Semantic Search
+================================================================================
+
+Result #1:
+Score: 0.591
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 0.558
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.539
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.502
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+Result #5:
+Score: 0.495
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Hybrid Search
+================================================================================
+
+Result #1:
+Score: 1.382
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 1.346
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 1.314
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #4:
+Score: 1.262
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 1.006
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phone with good camera
+Method: Reranked Results
+================================================================================
+
+Result #1:
+Score: 1.500
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+Result #2:
+Score: 1.489
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 1.442
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 1.269
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 0.000
+Product: Nokia C22 5GB*(2GB Virtual)/64GB Smart Phone
+--------------------------------------------------
+

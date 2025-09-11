@@ -1,0 +1,324 @@
+
+================================================================================
+Query: phones with long battery life
+Method: BM25 Search
+================================================================================
+
+Result #1:
+Score: 2.046
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 1.041
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #3:
+Score: 0.734
+Product: Realme C75x - IPS LCD - 6.67 Inches Display - 6GB RAM 128GB ROM - 50MP Rear Camera - 5MP Front Camera - Dual SIM - 5600mAh Battery
+--------------------------------------------------
+Result #4:
+Score: 0.622
+Product: realme C71 6GB/128GB | 6300mAh Battery + 45W Fast Charge | 120Hz & IP64 Dust & Water Resistance
+--------------------------------------------------
+Result #5:
+Score: 0.528
+Product: Symphony ATOM 5 (8GB*/64GB) | 6.74” HD+ IPS | Side-Mounted Fingerprint & Face Unlock | 5000mAh Battery | 52MP & 5MP Camera
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Semantic Search
+================================================================================
+
+Result #1:
+Score: 0.723
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.704
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.694
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.629
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+Result #5:
+Score: 0.616
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Hybrid Search
+================================================================================
+
+Result #1:
+Score: 1.757
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.811
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #3:
+Score: 0.720
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.693
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 0.679
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Reranked Results
+================================================================================
+
+Result #1:
+Score: 1.950
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.699
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.628
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.469
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #5:
+Score: 0.000
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: BM25 Search
+================================================================================
+
+Result #1:
+Score: 1.875
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.957
+Product: 5000mAh Battery | 52MP & 5MP Camera
+--------------------------------------------------
+Result #3:
+Score: 0.953
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #4:
+Score: 0.694
+Product: 50MP Rear Camera - 5MP Front Camera - Dual SIM - 5600mAh Battery
+--------------------------------------------------
+Result #5:
+Score: 0.569
+Product: realme C71 6GB/128GB | 6300mAh Battery + 45W Fast Charge | 120Hz & IP64 Dust & Water Resistance
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Semantic Search
+================================================================================
+
+Result #1:
+Score: 0.723
+Product: Imam i12 max (RAM-2GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.704
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.694
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.629
+Product: Imam i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam Smart Phone
+--------------------------------------------------
+Result #5:
+Score: 0.616
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Hybrid Search
+================================================================================
+
+Result #1:
+Score: 1.382
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.720
+Product: Imam i12 max (RAM-2GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.693
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.679
+Product: Imam i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam Smart Phone
+--------------------------------------------------
+Result #5:
+Score: 0.620
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Reranked Results
+================================================================================
+
+Result #1:
+Score: 1.950
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.699
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.628
+Product: Imam i12 max (RAM-2GB/ROM-32GB)3700mAH Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.469
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #5:
+Score: 0.000
+Product: Imam i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: BM25 Search
+================================================================================
+
+Result #1:
+Score: 2.046
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 1.041
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #3:
+Score: 0.734
+Product: Realme C75x - IPS LCD - 6.67 Inches Display - 6GB RAM 128GB ROM - 50MP Rear Camera - 5MP Front Camera - Dual SIM - 5600mAh Battery
+--------------------------------------------------
+Result #4:
+Score: 0.622
+Product: realme C71 6GB/128GB | 6300mAh Battery + 45W Fast Charge | 120Hz & IP64 Dust & Water Resistance
+--------------------------------------------------
+Result #5:
+Score: 0.528
+Product: Symphony ATOM 5 (8GB*/64GB) | 6.74” HD+ IPS | Side-Mounted Fingerprint & Face Unlock | 5000mAh Battery | 52MP & 5MP Camera
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Semantic Search
+================================================================================
+
+Result #1:
+Score: 0.723
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.704
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.694
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.629
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+Result #5:
+Score: 0.616
+Product: itel A80 4+128GB Smartphone | Official | One Year Brand Warranty
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Hybrid Search
+================================================================================
+
+Result #1:
+Score: 1.757
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.811
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #3:
+Score: 0.720
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.693
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #5:
+Score: 0.679
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+
+
+================================================================================
+Query: phones with long battery life
+Method: Reranked Results
+================================================================================
+
+Result #1:
+Score: 1.950
+Product: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+--------------------------------------------------
+Result #2:
+Score: 0.699
+Product: Imam i12 Daisy (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #3:
+Score: 0.628
+Product: Imam i12  max (RAM-2GB/ROM-32GB)3700mAH  Mobile Phone
+--------------------------------------------------
+Result #4:
+Score: 0.469
+Product: vivo Y04 4GB/64GB | 6.74” 90Hz HD+ Display | 5500mAh Battery | Side-mount Fingerprint
+--------------------------------------------------
+Result #5:
+Score: 0.000
+Product: Imam  i10 Pink(RAM-4GB/ROM-64GB)3900mAH Imam  Smart Phone
+--------------------------------------------------
+
